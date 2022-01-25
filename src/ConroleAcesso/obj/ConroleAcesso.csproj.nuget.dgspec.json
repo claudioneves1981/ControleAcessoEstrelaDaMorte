@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\Documents\\DIO\\SQL Server\\ControleAcessoEstrelaDaMorte\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj": {}
+    "C:\\Users\\cfneg\\git\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\Documents\\DIO\\SQL Server\\ControleAcessoEstrelaDaMorte\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj": {
+    "C:\\Users\\cfneg\\git\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\Documents\\DIO\\SQL Server\\ControleAcessoEstrelaDaMorte\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj",
+        "projectUniqueName": "C:\\Users\\cfneg\\git\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj",
         "projectName": "ConroleAcesso",
-        "projectPath": "C:\\Users\\thiag\\Documents\\DIO\\SQL Server\\ControleAcessoEstrelaDaMorte\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj",
-        "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\Documents\\DIO\\SQL Server\\ControleAcessoEstrelaDaMorte\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\obj\\",
+        "projectPath": "C:\\Users\\cfneg\\git\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\ConroleAcesso.csproj",
+        "packagesPath": "C:\\Users\\cfneg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cfneg\\git\\ControleAcessoEstrelaDaMorte\\src\\ConroleAcesso\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\cfneg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0-windows7.0"
@@ -59,6 +55,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -67,7 +81,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
